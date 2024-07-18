@@ -119,9 +119,9 @@ author:
   location         : "대한민국, 서울"
   email            : "mmzz6699@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mmzz6699@gmail.com"
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:mmzz6699@gmail.com"
 #   - label: "Website"
 #     icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
