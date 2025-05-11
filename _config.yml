@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "컴퓨터와 책을 좋아하는 주말바라기"
   location         : "남원, 전라북도, 대한민국"
-  email            : "mmzz6699@gmail.com"
+  # email          : "mmzz6699@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
