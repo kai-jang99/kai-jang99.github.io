@@ -33,14 +33,28 @@ title: "다사다 신입사원 지침 #1"
 ### 2.2. 칸을 정하는 기준
 
 <div align="center">
-  
-|칸|연간 최대 판매량|
-|:---:|:---:|
-|01~10|21+|
-|11~20|20~11|
-|21~30|10~1|
-|31~37|0.9~0|
-
+	<table>
+		<tr>
+			<th style="text-align:center">칸</th>
+			<th>연간 최대 판매량</th>
+		</tr>
+		<tr>
+			<td>01~10</td>
+			<td style="text-align:center">21~</td>
+		</tr>
+		<tr>
+			<td>11~20</td>
+			<td style="text-align:center">11~20</td>
+		</tr>
+		<tr>
+			<td>21~30</td>
+			<td style="text-align:center">1~10</td>
+		</tr>
+		<tr>
+			<td>31~37</td>
+			<td style="text-align:center">0~0.9</td>
+		</tr>
+	</table>
 </div>
 
 - 연간 최대 판매량(이하 **판매량)이 많을수록 입구에 가까이**, 적을수록 입구에서 멀리
