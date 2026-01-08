@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "다사다 신입사원 지침 #1"
 ---
 
