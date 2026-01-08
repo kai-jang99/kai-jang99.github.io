@@ -32,37 +32,36 @@ title: "다사다 신입사원 지침 #1"
 
 ### 2.2. 칸을 정하는 기준
 
-<div align="center">
-	<table>
-		<tr>
-			<th style="text-align:center">칸</th>
-			<th>연간 최대 판매량</th>
-		</tr>
-		<tr>
-			<td>01~10</td>
-			<td style="text-align:center">21~</td>
-		</tr>
-		<tr>
-			<td>11~20</td>
-			<td style="text-align:center">11~20</td>
-		</tr>
-		<tr>
-			<td>21~30</td>
-			<td style="text-align:center">1~10</td>
-		</tr>
-		<tr>
-			<td>31~37</td>
-			<td style="text-align:center">0~0.9</td>
-		</tr>
-	</table>
-</div>
+
+<table>
+  <tr>
+    <th style="text-align:center">칸</th>
+    <th>연간 최대 판매량</th>
+  </tr>
+  <tr>
+    <td>01~10</td>
+    <td style="text-align:center">21~</td>
+  </tr>
+  <tr>
+    <td>11~20</td>
+    <td style="text-align:center">11~20</td>
+  </tr>
+  <tr>
+    <td>21~30</td>
+    <td style="text-align:center">1~10</td>
+  </tr>
+  <tr>
+    <td>31~37</td>
+    <td style="text-align:center">0~0.9</td>
+  </tr>
+</table>
 
 - 연간 최대 판매량(이하 **판매량)이 많을수록 입구에 가까이**, 적을수록 입구에서 멀리
 - 가끔 상품명 아래나 TEG 항목에 [L20]처럼 **[L숫자]**가 표시돼있을 수 있는데, 이는 20개 단위로 묶음포장돼있다는 뜻이다. 따라서 만약 판매량이 180이라도 01`~`10번 칸에 놓지 않고 판매량을 9(=180/20)로 가정하여 21`~`30번 칸에 놓야아 한다.
 
 ### 2.3. 레벨을 정하는 기준
-<div align="center">
-  <table>
+
+<table>
 	<tr>
 		<th>레벨 위치</th>
 		<th style="text-align:center">상자 높이</th>
@@ -142,6 +141,5 @@ title: "다사다 신입사원 지침 #1"
 		<td style="text-align:center">비매품</td>
 	</tr>
 </table>
-</div>
 
 > 최대한 일반화하려고 노력했으나 예외가 없다고 장담할 수는 없습니다. 의문점이나 궁금한 점 있다면 언제든지 말씀해주세요. 주기적으로 내용 갱신 및 추가하겠습니다.
