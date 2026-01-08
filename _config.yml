@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "하얀 블로그"
 title_separator          : "-"
-subtitle                 : "White Blog"
+subtitle                 : "Hayan Blog"
 name                     : "장강혁"
 description              : "꾸준히 포스팅하고 있는 블로그"
 url                      : "https://kai-jang99.github.io"
