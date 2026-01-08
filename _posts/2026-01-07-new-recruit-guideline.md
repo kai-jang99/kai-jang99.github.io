@@ -43,85 +43,87 @@ title: "다사다 신입사원 지침 #1"
 - 가끔 상품명 아래나 TEG 항목에 [L20]처럼 **[L숫자]**가 표시돼있을 수 있는데, 이는 20개 단위로 묶음포장돼있다는 뜻이다. 따라서 만약 판매량이 180이라도 01`~`10번 칸에 놓지 않고 판매량을 9(=180/20)로 가정하여 21`~`30번 칸에 놓야아 한다.
 
 ### 2.3. 레벨을 정하는 기준
-<table>
+<div align="center">
+  <table>
 	<tr>
 		<th>레벨 위치</th>
-		<th>상자 높이</th>
-		<th>총 무게</th>
-		<th>상자 무게</th>
-		<th>단위 무게</th>
-		<th>예시</th>
+		<th style="text-align:center">상자 높이</th>
+		<th style="text-align:center">총 무게</th>
+		<th style="text-align:center">상자 무게</th>
+		<th style="text-align:center">단위 무게</th>
+		<th style="text-align:center">예시</th>
 	</tr>
 	<tr>
 		<td rowspan="2" style="vertical-align:middle">1층 1레벨</td>
-		<td>40cm~</td>
-		<td>-</td>
-		<td>-</td>
-		<td>-</td>
-		<td>에어크리너</td>
+		<td style="text-align:center">40cm~</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">에어크리너</td>
 	</tr>
 	<tr>
-		<td>-</td>
-		<td>70kg~</td>
-		<td>-</td>
-		<td>-</td>
-		<td>경운도</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">70kg~</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">경운도</td>
 	</tr>
 	<tr>
 		<td>1층 2레벨 파레트</td>
-		<td>~40cm</td>
-		<td>-</td>
-		<td>20kg~</td>
-		<td>-</td>
-		<td>오일 필터</td>
+		<td style="text-align:center">~40cm</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">20kg~</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">오일 필터</td>
 	</tr>
 	<tr>
 		<td>1층 2레벨 철판</td>
-		<td>~40cm</td>
-		<td>~100kg</td>
-		<td>20kg~</td>
-		<td>-</td>
-		<td>베어링</td>
+		<td style="text-align:center">~40cm</td>
+		<td style="text-align:center">~100kg</td>
+		<td style="text-align:center">20kg~</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">베어링</td>
 	</tr>
 	<tr>
 		<td>2층 1레벨</td>
-		<td>30~40cm</td>
-		<td>-</td>
-		<td>~20kg</td>
-		<td>-</td>
-		<td>튜브</td>
+		<td style="text-align:center">30~40cm</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">~20kg</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">튜브</td>
 	</tr>
 	<tr>
 		<td rowspan="2" style="vertical-align:middle">2층 2레벨</td>
-		<td>15~30cm</td>
-		<td>-</td>
-		<td>~20kg</td>
-		<td>-</td>
-		<td>핀</td>
+		<td style="text-align:center">15~30cm</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">~20kg</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">핀</td>
 	</tr>
 	<tr>
-		<td>~30cm</td>
-		<td>-</td>
-		<td>~20kg</td>
-		<td>2kg~</td>
-		<td>쟈날</td>
+		<td style="text-align:center">~30cm</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">~20kg</td>
+		<td style="text-align:center">2kg~</td>
+		<td style="text-align:center">쟈날</td>
 	</tr>
 	<tr>
 		<td>2층 3레벨</td>
-		<td>~15cm</td>
-		<td>-</td>
-		<td>~20kg</td>
-		<td>~2kg</td>
-		<td>가스켓</td>
+		<td style="text-align:center">~15cm</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">~20kg</td>
+		<td style="text-align:center">~2kg</td>
+		<td style="text-align:center">가스켓</td>
 	</tr>
 	<tr>
 		<td>2층 4레벨</td>
-		<td>-</td>
-		<td>-</td>
-		<td>~20kg</td>
-		<td>~2kg</td>
-		<td>비매품</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">-</td>
+		<td style="text-align:center">~20kg</td>
+		<td style="text-align:center">~2kg</td>
+		<td style="text-align:center">비매품</td>
 	</tr>
 </table>
+</div>
 
 > 최대한 일반화하려고 노력했으나 예외가 없다고 장담할 수는 없습니다. 의문점이나 궁금한 점 있다면 언제든지 말씀해주세요. 주기적으로 내용 갱신 및 추가하겠습니다.
