@@ -17,7 +17,7 @@ title: "다사다 신입사원 지침 #1"
 - 메모: 각종 지시사항 (송입/송출 수량, 택배포장할 때 주의사항, 묶음포장 단위, 라벨링할 때 감열지/유포지 선택, 신규 상품일 경우 kg단위로 무게측정 등...)
 
 ## 2. 1창고에서 태그 정하는 기준
-- 호칭) A`~`H: 라인, 01`~`37: 칸, 01`~`05: 레벨, A/B/C/D라인: 1층, E/F/G/H라인: 2층
+- 호칭) A`~`H: 라인, 01`~`37: 칸, 01`~`05: 단, A/B/C/D라인: 1층, E/F/G/H라인: 2층
 - 승강기 자리 근처는 비워둬야 함
 - 투명한 비닐로 포장됐거나 나체인 상품은 햇볕이 드는 곳(A, D, E, H 라인 및 34번 칸 이후)에 두면 안됨
 
@@ -59,11 +59,11 @@ title: "다사다 신입사원 지침 #1"
 - 연간 최대 판매량(이하 **판매량)이 많을수록 입구에 가까이**, 적을수록 입구에서 멀리
 - 가끔 상품명 아래나 TEG 항목에 [L20]처럼 **[L숫자]**가 표시돼있을 수 있는데, 이는 20개 단위로 묶음포장돼있다는 뜻이다. 따라서 만약 판매량이 180이라도 01`~`10번 칸에 놓지 않고 판매량을 9(=180/20)로 가정하여 21`~`30번 칸에 놓야아 한다.
 
-### 2.3. 레벨을 정하는 기준
+### 2.3. 단을 정하는 기준
 
 <table>
 	<tr>
-		<th>레벨 위치</th>
+		<th>단 위치</th>
 		<th style="text-align:center">상자 높이</th>
 		<th style="text-align:center">총 무게</th>
 		<th style="text-align:center">상자 무게</th>
@@ -71,7 +71,7 @@ title: "다사다 신입사원 지침 #1"
 		<th style="text-align:center">예시</th>
 	</tr>
 	<tr>
-		<td rowspan="2" style="vertical-align:middle">1층 1레벨</td>
+		<td rowspan="2" style="vertical-align:middle">1층 1단</td>
 		<td style="text-align:center">40cm~</td>
 		<td style="text-align:center">-</td>
 		<td style="text-align:center">-</td>
@@ -86,7 +86,7 @@ title: "다사다 신입사원 지침 #1"
 		<td style="text-align:center">경운도</td>
 	</tr>
 	<tr>
-		<td>1층 2레벨 파레트</td>
+		<td>1층 2단 파레트</td>
 		<td style="text-align:center">~40cm</td>
 		<td style="text-align:center">-</td>
 		<td style="text-align:center">20kg~</td>
@@ -94,7 +94,7 @@ title: "다사다 신입사원 지침 #1"
 		<td style="text-align:center">오일 필터</td>
 	</tr>
 	<tr>
-		<td>1층 2레벨 철판</td>
+		<td>1층 2단 철판</td>
 		<td style="text-align:center">~40cm</td>
 		<td style="text-align:center">~100kg</td>
 		<td style="text-align:center">20kg~</td>
@@ -102,7 +102,7 @@ title: "다사다 신입사원 지침 #1"
 		<td style="text-align:center">베어링</td>
 	</tr>
 	<tr>
-		<td>2층 1레벨</td>
+		<td>2층 1단</td>
 		<td style="text-align:center">30~40cm</td>
 		<td style="text-align:center">-</td>
 		<td style="text-align:center">~20kg</td>
@@ -110,7 +110,7 @@ title: "다사다 신입사원 지침 #1"
 		<td style="text-align:center">튜브</td>
 	</tr>
 	<tr>
-		<td rowspan="2" style="vertical-align:middle">2층 2레벨</td>
+		<td rowspan="2" style="vertical-align:middle">2층 2단</td>
 		<td style="text-align:center">15~30cm</td>
 		<td style="text-align:center">-</td>
 		<td style="text-align:center">~20kg</td>
@@ -125,7 +125,7 @@ title: "다사다 신입사원 지침 #1"
 		<td style="text-align:center">쟈날</td>
 	</tr>
 	<tr>
-		<td>2층 3레벨</td>
+		<td>2층 3단</td>
 		<td style="text-align:center">~15cm</td>
 		<td style="text-align:center">-</td>
 		<td style="text-align:center">~20kg</td>
@@ -133,7 +133,7 @@ title: "다사다 신입사원 지침 #1"
 		<td style="text-align:center">가스켓</td>
 	</tr>
 	<tr>
-		<td>2층 4레벨</td>
+		<td>2층 4단</td>
 		<td style="text-align:center">-</td>
 		<td style="text-align:center">-</td>
 		<td style="text-align:center">~20kg</td>
